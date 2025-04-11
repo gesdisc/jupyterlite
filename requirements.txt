@@ -45,5 +45,5 @@ plotly>=5,<6
 bqplot
 
 # Custom extensions
-jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@fea83b9
+jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@1f1fabf
 terra_ui_components==0.0.17
