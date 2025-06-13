@@ -11,4 +11,4 @@ jupyterlab-night
 
 # Custom extensions
 jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@05cb29d
-terra_ui_components==0.0.46
+terra_ui_components==0.0.48
