@@ -10,5 +10,5 @@ jupyterlite-pyodide-kernel==0.6.0a6
 jupyterlab-night
 
 # Custom extensions
-jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@5b7a5720a8fd7242cc2bf67db69b0d74978ddeae
+jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@238653659534a6ee075b3d0637caa2776a753653
 terra_ui_components==0.0.71
