@@ -1,16 +1,13 @@
 # Core modules (mandatory)
-jupyterlite-core==0.6.0a8
-jupyterlab~=4.3.4
-notebook~=7.3.2
+jupyterlite-core==0.7.1
+jupyterlab~=4.5.2
+notebook~=7.5.2
 
 # Python kernel (optional)
-jupyterlite-pyodide-kernel==0.6.0a6
+jupyterlite-pyodide-kernel==0.7.0
 
 # JupyterLab: dark theme
 jupyterlab-night
-
-# Packages required to run the notebooks
-aiohttp==3.13.3
 
 # Custom extensions
 jupyter-notebook-from-json-extension @ git+https://github.com/gesdisc/jupyter-notebook-from-json-extension@37c4106d56877f4c1889d0f81cc4a06315a1971c
